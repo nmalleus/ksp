@@ -1,6 +1,6 @@
 # ksp README
 
-Kontakt Script Processor (KSP) syntax for Visual Studio Code
+Kontakt Script Processor (KSP) syntax for Visual Studio Code.
 I used to script for Kontakt but I am a beginner in other languages, so advices and remarks are welcome :)
 
 ## Installation
@@ -18,8 +18,7 @@ Please keep the original file by zipping or renaming it.
 
 Kontakt Script Processor (KSP) syntax for Visual Studio Code
 inouï syntax color for this grammar
-
-\!\[In action\]\(images/inoui KSP example.png\)
+![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/images/inoui%20KSP%20example.png)
 
 ## Known Issues
 
