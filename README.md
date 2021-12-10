@@ -10,12 +10,12 @@ https://www.inouisamples.com/
 ## Installation
 
 Copy the folder to:  
-*Win: C:\Users\username\.vscode\extensions  
-*Mac: ?  
+* Win: C:\Users\username\.vscode\extensions  
+* Mac: $HOME/.vscode/extensions  
   
 If you want to use the inouï colors with VS Code Dark theme, then drag "dark_vs.json" to:  
-*Win: C:\Users\username\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\theme-defaults\themes  
-*Mac: ?  
+* Win: C:\Users\username\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\theme-defaults\themes  
+* Mac: $HOME/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/theme-defaults  
 Please keep the original file by zipping or renaming it.
 
 ## Features
