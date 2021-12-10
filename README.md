@@ -1,16 +1,11 @@
 # ksp README
 
 Kontakt Script Processor (KSP) syntax for Visual Studio Code.  
-<<<<<<< HEAD
-  
+
 Feel free to use this tool I designed to code inouï sample's virtual instruments.  
 I used to script for Kontakt but I am a beginner in other languages, so advices and suggestions are welcome :)  
   
-https://www.inouisamples.com/  
-https://www.nelsonmalleus.com/  
-=======
-I used to script for Kontakt but I am a beginner in other languages, so advices and remarks are welcome :)
->>>>>>> 8a9b8ba0a65df1b9a7a7df052ef1adcf597d576f
+https://www.inouisamples.com/
 
 ## Installation
 
