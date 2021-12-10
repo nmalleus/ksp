@@ -1,6 +1,6 @@
 # ksp README
 
-Kontakt Script Processor (KSP) syntax for Visual Studio Code.
+Kontakt Script Processor (KSP) syntax for Visual Studio Code.  
 I used to script for Kontakt but I am a beginner in other languages, so advices and remarks are welcome :)
 
 ## Installation
