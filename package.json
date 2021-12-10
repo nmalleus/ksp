@@ -1,0 +1,25 @@
+{
+    "name": "ksp",
+    "displayName": "ksp",
+    "description": "Kontakt Script Processor",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "ksp",
+            "aliases": ["Kontakt Script Processor", "ksp"],
+            "extensions": [".ksp"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ksp",
+            "scopeName": "source.ksp",
+            "path": "./syntaxes/ksp.tmLanguage.json"
+        }]
+    }
+}
