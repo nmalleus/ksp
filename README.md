@@ -1,6 +1,6 @@
 # ksp README
 
-Kontakt Script Processor (KSP) syntax for Visual Studio Code.  
+Native Instruments Kontakt Script Processor (KSP) syntax for Visual Studio Code.  
 
 Feel free to use this tool I designed to code inouï sample's virtual instruments.  
 I used to script for Kontakt but I am a beginner in other languages, so advices and suggestions are welcome :)  
