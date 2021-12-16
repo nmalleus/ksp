@@ -3,6 +3,11 @@
     "displayName": "ksp",
     "description": "Kontakt Script Processor",
     "version": "1.0.0",
+    "private":"false",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nmalleus/ksp"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
