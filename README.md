@@ -9,7 +9,9 @@ https://www.inouisamples.com/
 
 ## Installation
 
-You can install it automatically from VS Code or from this link: https://marketplace.visualstudio.com/items?itemName=nmalleus-inouisamples.kspsyntax  
+You can install it automatically from VS Code or from this link:  
+https://marketplace.visualstudio.com/items?itemName=nmalleus-inouisamples.kspsyntax  
+  
 If you prefer to do it manually, then copy this folder to:
 * Win: C:\Users\username\.vscode\extensions  
 * Mac: /Users/username/.vscode/extensions  
