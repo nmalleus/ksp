@@ -3,7 +3,7 @@
     "displayName": "ksp - Kontakt Script Processor syntax",
     "description": "Kontakt Script Processor syntax for Native Instruments Kontakt",
     "version": "1.0.0",
-    "icon": "resources/icon.png",
+    "icon": "resources/Kontakt_Icon.png",
     "license": "MIT",
     "keywords": ["ksp","kontakt","native instruments","inoui samples"],
     "publisher": "nmalleus-inouisamples",
