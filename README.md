@@ -12,10 +12,6 @@ https://www.inouisamples.com/
 You can install it automatically from VS Code or by following this link:  
 https://marketplace.visualstudio.com/items?itemName=nmalleus-inouisamples.kspsyntax  
   
-If you prefer to do it manually, then copy this folder to:
-* Win: C:\Users\username\ .vscode\extensions  
-* Mac: /Users/username/.vscode/extensions  
-  
 If you want to use the inouï colors with VS Code Dark theme, then drag "dark_vs.json" to:
 * Win: C:\Users\username\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\theme-defaults\themes  
 * Mac: /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/theme-defaults/themes  
