@@ -33,3 +33,6 @@ Planning to create a theme extension.
 
 ## [1.0.0] - 2021-12-10
 - Initial release
+## [1.0.1] - 2021-12-17
+- Resource optimization
+- Installation instructions
