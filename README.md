@@ -23,7 +23,7 @@ Please keep the original file by zipping or renaming it.
 * Kontakt Script Processor (KSP) syntax for Visual Studio Code
 * inouï syntax color for this grammar  
   
-![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/images/inoui%20KSP%20example.png)
+![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/resources/inoui%20KSP%20example.png)
 
 ## Known Issues
 
