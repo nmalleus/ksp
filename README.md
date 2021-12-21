@@ -2,7 +2,7 @@
 
 Native Instruments Kontakt Script Processor (KSP) syntax for Visual Studio Code.  
   
-Feel free to use this tool I designed to code inouï sample's virtual instruments.  
+Feel free to use this tool I designed to code inouï samples virtual instruments.  
 I used to script for Kontakt but I am a beginner in other languages, so advices and suggestions are welcome :)  
   
 https://www.inouisamples.com/
@@ -12,9 +12,10 @@ https://www.inouisamples.com/
 You can install it automatically from VS Code or by following this link:  
 https://marketplace.visualstudio.com/items?itemName=nmalleus-inouisamples.kspsyntax  
   
-If you want to use the inouï samples colors theme, download this folder:
+If you want to use the inouï samples colors theme, then download this folder:
 * https://github.com/nmalleus/inoui_samples_colors  
-Copy and copy it to:  
+
+And copy it to:  
 * Win: C:\Users\username\.vscode\extensions  
 * Mac: /Users/username/.vscode/extensions  
 
@@ -25,8 +26,6 @@ Copy and copy it to:
 ![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/resources/inoui%20KSP%20example.png)
 
 ## Known Issues
-
-Planning to create a theme extension.
 
 ## Release Notes
 
