@@ -16,8 +16,8 @@ If you want to use the inouï samples colors theme, then download this folder:
 * https://github.com/nmalleus/inoui_samples_colors  
 
 And copy it to:  
-* Win: C:\Users\username\.vscode\extensions  
-* Mac: /Users/username/.vscode/extensions  
+__Win__: `C:\Users\username\.vscode\extensions`  
+__Mac__: `/Users/username/.vscode/extensions`  
 
 ## Features
 
