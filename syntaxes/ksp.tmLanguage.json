@@ -46,7 +46,7 @@
 		"entities":{
             "patterns":[{
                 "name":  "entity.name.section.ksp",
-				"match": "(on init|on async_complete|on controller|on midi_in|on note|on poly_at|on release|on ui_control|end on|function|end function)"
+				"match": "(on init|on async_complete|on controller|on midi_in|on listener|on rpn|on nrpn|on note|on poly_at|on release|on persistence_changed|on pgs_changed|on ui_control|on ui_update|end on|function|end function)"
 			}]
         },
 		"controls": {
