@@ -26,6 +26,7 @@ __Mac__: `/Users/username/.vscode/extensions`
 ![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/resources/inoui%20KSP%20example.png)
 
 ## Known Issues
+ - Keywords can be highlighted in the middle of free vocabulary like function names.
 
 ## Release Notes
 
