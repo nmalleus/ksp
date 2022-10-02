@@ -29,7 +29,7 @@ __Mac__: `/Users/username/.vscode/extensions`
 - Start your functions names with a `_`
 
 ## Known Issues
- - Keywords can be highlighted in the middle of free vocabulary like function names.
+  - Ø
 
 ## Release Notes
 
