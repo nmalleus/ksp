@@ -2,7 +2,7 @@
     "name": "kspsyntax",
     "displayName": "ksp - Kontakt Script Processor syntax",
     "description": "Kontakt Script Processor syntax for Native Instruments Kontakt",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "icon": "resources/Kontakt_Icon.png",
     "license": "MIT",
     "keywords": ["ksp","kontakt","native instruments","inoui samples"],
@@ -17,7 +17,7 @@
 		"url": "https://github.com/nmalleus/ksp/issues"
 	},
     "engines": {
-        "vscode": "^1.66.2"
+        "vscode": "^1.71.2"
     },
     "categories": ["Programming Languages"],
     "contributes": {

@@ -12,3 +12,6 @@ All notable changes to the "ksp" extension will be documented in this file.
 - https://github.com/nmalleus/inoui_samples_colors
 ## [1.0.3] - 2022-05-05
 - Adding missing callback
+## [1.0.4] - 2022-10-02
+- Highlight functions as commands if their names start with `_`
+- Advice: start your functions name with a `_`

@@ -25,6 +25,9 @@ __Mac__: `/Users/username/.vscode/extensions`
   
 ![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/resources/inoui%20KSP%20example.png)
 
+## Advices
+- Start your functions names with a `_`
+
 ## Known Issues
  - Keywords can be highlighted in the middle of free vocabulary like function names.
 
@@ -40,3 +43,6 @@ __Mac__: `/Users/username/.vscode/extensions`
 - https://github.com/nmalleus/inoui_samples_colors
 ## [1.0.3] - 2022-05-05
 - Adding missing callback
+## [1.0.4] - 2022-10-02
+- Highlight functions as commands if their names start with `_`
+- Advice: start your functions names with a `_`

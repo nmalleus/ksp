@@ -11,7 +11,8 @@
 		{"include": "#entities"},
 		{"include": "#controls"},
 		{"include": "#operators"},
-		{"include": "#commands"}
+		{"include": "#commands"},
+		{"include": "#functions"}
 	],
 
 	"repository": {
@@ -32,7 +33,7 @@
 		"variables":{
             "patterns":[
                 {"name":  "storage.var.ksp",
-				 "match": "(\\$|\\~|\\?|@|!|%)([0-9|a-z|A-Z|_]+)"},	
+				 "match": "(\\$|\\~|\\?|@|!|%)([0-9|a-z|A-Z|_]+)"},
 				{"name":  "storage.var.ksp",
 				 "match": "(\\$|\\~|\\?|@|!|%)([A-Z|_]+)"}
             ]
@@ -64,8 +65,16 @@
 		"commands":{
             "patterns":[{
                 "name":  "keyword.command.ksp",
-				"match": "(abs|acos|add_menu_item|allow_group|array_equal|asin|atan|attach_zone|by_marks|call|ceil|change_note|change_pan|change_time_with_pitch|change_tune|change_velo|change_vol|cos|dec|declare|lare|disallow_group|end select|event_status|exp|fade_in|fade_out|find_group|find_mod|floor|get_engine_par|get_engine_par_disp|get_event_par|get_event_par_arr|get_font_id|get_menu_item_str|get_menu_item_visibility|get_purge_state|get_ui_id|group_name|hide_part|ignore_controller|ignore_event|ignore_midi|inc|int_to_real|log|lsb|make_perfview|make_persistent|message|mod|move_control_px|msb|note_off|num_elements|output_channel_name|play_note|pow|purge_group|random|read_persistent_var|real_to_int|round|search|select|set_control_help|set_control_par|set_control_par_str|set_controller|set_engine_par|set_event_mark|set_event_par|set_key_color|set_knob_defval|set_knob_label|set_knob_unit|set_menu_item_str|set_midi|set_script_title|set_text|set_ui_height_px|sin|sort|sqrt|tan|wait)"
+				"match": "(abs|acos|add_menu_item|allow_group|array_equal|asin|atan|attach_zone|by_marks|call|ceil|change_note|change_pan|change_time_with_pitch|change_tune|change_velo|change_vol|cos|dec|declare|lare|disallow_group|end select|event_status|exp|fade_in|fade_out|find_group|find_mod|floor|get_engine_par|get_engine_par_disp|get_event_par|get_event_par_arr|get_font_id|get_menu_item_str|get_menu_item_visibility|get_purge_state|get_ui_id|group_name|hide_part|ignore_controller|ignore_event|ignore_midi|inc|int_to_real|log|lsb|make_perfview|make_persistent|message|mod|move_control_px|msb|note_off|num_elements|output_channel_name|play_note|pow|purge_group|random|read_persistent_var|real_to_int|round|search|select|set_control_help|set_control_par_str|set_control_par|set_controller|set_engine_par|set_event_mark|set_event_par|set_key_color|set_knob_defval|set_knob_label|set_knob_unit|set_menu_item_str|set_midi|set_script_title|set_text|set_ui_height_px|sin|sort|sqrt|tan|wait)"
 			}]
+        },
+		"functions":{
+            "patterns":[
+                {"name":  "keyword.function.ksp",
+				 "match": "(\\_)([0-9|a-z|A-Z|_]+)"},
+				{"name":  "keyword.function.ksp",
+				 "match": "(\\_)([A-Z|_]+)"}
+            ]
         }
 	},
 
