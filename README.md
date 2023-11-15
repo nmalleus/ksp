@@ -46,3 +46,6 @@ __Mac__: `/Users/username/.vscode/extensions`
 ## [1.0.4] - 2022-10-02
 - Highlight functions as commands if their names start with `_`
 - Advice: start your functions names with a `_`
+## [1.0.5] - 2023-11-15
+- Update to Kontakt 7
+- Missing commands
